@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+    <!--
+    Family Tree Pictures
+      -->
+    <html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+ 
+        <title>Pauline Wein</title>
+    </head>
+    
+    <body>
+    
+	<img src = "Pauline Wein"/>
+	
+	
+    </body>
+    
+</html>
